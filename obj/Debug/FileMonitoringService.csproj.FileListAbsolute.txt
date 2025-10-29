@@ -1,8 +1,0 @@
-C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Debug\FileMonitoringService.exe.config
-C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Debug\FileMonitoringService.exe
-C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Debug\FileMonitoringService.pdb
-C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\obj\Debug\FileMonitoringService.csproj.AssemblyReference.cache
-C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\obj\Debug\FileMonitoringService.csproj.CoreCompileInputs.cache
-C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\obj\Debug\FileMonitoringService.exe
-C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\obj\Debug\FileMonitoringService.pdb
-C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\obj\Debug\FileMonitoringService.exe.config
