@@ -33,7 +33,8 @@ namespace FileMonitoringService
                 ServiceName = "FileMonitoringService",
                 DisplayName = "File Monitoring Service",
                 Description = "A service that monitors files and move them from source folder to destination folder.",
-                StartType = ServiceStartMode.Automatic // Automatically starts the service on system boot
+                StartType = ServiceStartMode.Automatic, // Automatically starts the service on system boot
+                ServicesDependedOn = new string[] { "LanmanWorkstation", "LanmanServer", "PlugPlay", "RpcSs" }
             };
 
             // Add both installers to the Installers collection
