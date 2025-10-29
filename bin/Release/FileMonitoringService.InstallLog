@@ -1,0 +1,21 @@
+﻿Uninstalling assembly 'C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Release\FileMonitoringService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Release\FileMonitoringService.InstallLog
+   assemblypath = C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Release\FileMonitoringService.exe
+Removing EventLog source FileMonitoringService.
+Service FileMonitoringService is being removed from the system...
+Service FileMonitoringService was successfully removed from the system.
+Installing assembly 'C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Release\FileMonitoringService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Release\FileMonitoringService.InstallLog
+   assemblypath = C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Release\FileMonitoringService.exe
+Installing service FileMonitoringService...
+Service FileMonitoringService has been successfully installed.
+Creating EventLog source FileMonitoringService in log Application...
+Committing assembly 'C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Release\FileMonitoringService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Release\FileMonitoringService.InstallLog
+   assemblypath = C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\bin\Release\FileMonitoringService.exe

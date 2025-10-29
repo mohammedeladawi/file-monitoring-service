@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\obj\Release\FileMonitoringService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\obj\Release\FileMonitoringService.InstallLog
+   assemblypath = C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\obj\Release\FileMonitoringService.exe
+Installing service FileMonitoringService...
+Service FileMonitoringService has been successfully installed.
+Creating EventLog source FileMonitoringService in log Application...
+Committing assembly 'C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\obj\Release\FileMonitoringService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\obj\Release\FileMonitoringService.InstallLog
+   assemblypath = C:\Users\mazik\Desktop\Windows Services\FileMonitoringService\obj\Release\FileMonitoringService.exe
